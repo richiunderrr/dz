@@ -4,19 +4,26 @@ using System.Collections.Generic;
 
 public class Main
 {
-    public static int Min(int a, int b)
+    public static int Min(int[] numbers)
     {
-        if (a < b)
-            return a;
-
-        return b;
+        int min = numbers[0];
+        for (int i = 1; i < numbers.Length; i++)
+        {
+            if (numbers[i] < min)
+                min = numbers[i];
+        }
+        return min;
     }
-
-    public static int Max(int a, int b)
+    public static int Max(int[] numbers)
     {
-        if (a > b)
-            return a;
+        int Max = numbers[0];
+        for (int i = 1; i < numbers.Length; i++)
+        {
+            if (numbers[i] > Max)
+                Max = numbers[i];
+        }
 
-        return b;
+        return Max;
     }
+    
 }
