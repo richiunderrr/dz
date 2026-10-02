@@ -1,0 +1,15 @@
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.AssemblyInfoInputs.cache
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.AssemblyInfo.cs
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.csproj.CoreCompileInputs.cache
+C:\Users\loxin\source\repos\Dz1\Dz1\bin\Debug\net10.0\Dz1.exe
+C:\Users\loxin\source\repos\Dz1\Dz1\bin\Debug\net10.0\Dz1.deps.json
+C:\Users\loxin\source\repos\Dz1\Dz1\bin\Debug\net10.0\Dz1.runtimeconfig.json
+C:\Users\loxin\source\repos\Dz1\Dz1\bin\Debug\net10.0\Dz1.dll
+C:\Users\loxin\source\repos\Dz1\Dz1\bin\Debug\net10.0\Dz1.pdb
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.dll
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\refint\Dz1.dll
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.pdb
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.genruntimeconfig.cache
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\ref\Dz1.dll
+C:\Users\loxin\source\repos\Dz1\Dz1\obj\Debug\net10.0\Dz1.csproj.Up2Date
