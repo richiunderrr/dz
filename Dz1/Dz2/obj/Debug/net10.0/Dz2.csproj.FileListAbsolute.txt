@@ -1,0 +1,5 @@
+C:\Users\loxin\source\repos\Dz1\Dz2\obj\Debug\net10.0\Dz2.csproj.AssemblyReference.cache
+C:\Users\loxin\source\repos\Dz1\Dz2\obj\Debug\net10.0\Dz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loxin\source\repos\Dz1\Dz2\obj\Debug\net10.0\Dz2.AssemblyInfoInputs.cache
+C:\Users\loxin\source\repos\Dz1\Dz2\obj\Debug\net10.0\Dz2.AssemblyInfo.cs
+C:\Users\loxin\source\repos\Dz1\Dz2\obj\Debug\net10.0\Dz2.csproj.CoreCompileInputs.cache
